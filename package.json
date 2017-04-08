@@ -1,0 +1,29 @@
+{
+  "name": "command-line-application-example",
+  "version": "1.0.0",
+  "description": "command line application example",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcali/class-04-08.git"
+  },
+  "keywords": [
+    "command-line",
+    "node",
+    "modules",
+    "export",
+    "require"
+  ],
+  "author": "Tom Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcali/class-04-08/issues"
+  },
+  "homepage": "https://github.com/tomcali/class-04-08",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}

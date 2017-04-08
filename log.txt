@@ -1,0 +1,6 @@
+
+create new user: last-user location: los angeles, CA timestamp: 1491684944649
+create new user: last-user location: atlanta timestamp: 1491684957306
+create new user: last-user location: boston timestamp: 1491684964795
+create new user: last-user location: cleveland timestamp: 1491684974551
+create new user: last-user location: seattle timestamp: 1491684986890
